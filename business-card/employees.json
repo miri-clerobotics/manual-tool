@@ -12,7 +12,7 @@
     "email": "shkang",
     "location": "hq"
   },
-    {
+  {
     "name": "강인영",
     "birth": "0701",
     "nameKo": "강 인 영",
@@ -91,19 +91,6 @@
     "location": "hq"
   },
   {
-    "name": "박연희",
-    "birth": "0415",
-    "nameKo": "박 연 희",
-    "nameEn": "PARK, YEON HEE",
-    "deptKo": "소프트웨어 연구개발",
-    "deptEn": "Software R&D",
-    "titleKo": "책임연구원",
-    "titleEn": "Senior Engineer",
-    "mobile": "10.2298.2813",
-    "email": "yhpark",
-    "location": "hq"
-  },
-  {
     "name": "박찬우",
     "birth": "0624",
     "nameKo": "박 찬 우",
@@ -129,7 +116,7 @@
     "email": "sjbaek",
     "location": "hq"
   },
- {
+  {
     "name": "백수현",
     "birth": "0227",
     "nameKo": "백 수 현",
@@ -183,7 +170,7 @@
     "mobile": "10.8560.0526",
     "email": "khsung",
     "location": "hq"
-  },  
+  },
   {
     "name": "신혜빈",
     "birth": "0310",
@@ -353,7 +340,7 @@
     "email": "ywjeong",
     "location": "hq"
   },
-    {
+  {
     "name": "정의현",
     "birth": "0112",
     "nameKo": "정 의 현",
@@ -429,19 +416,6 @@
     "titleEn": "CPO | Co-Founder",
     "mobile": "10.9067.4150",
     "email": "jhchoi",
-    "location": "hq"
-  },
-  {
-    "name": "한지선",
-    "birth": "0120",
-    "nameKo": "한 지 선",
-    "nameEn": "HAN, JEE SUN",
-    "deptKo": "소프트웨어 연구개발",
-    "deptEn": "Software R&D",
-    "titleKo": "연구원",
-    "titleEn": "Engineer",
-    "mobile": "10.5651.9386",
-    "email": "jshan",
     "location": "hq"
   },
   {
@@ -755,5 +729,31 @@
     "mobile": "10.3343.1886",
     "email": "sjheo",
     "location": "lab"
+  },
+  {
+    "name": "박선하",
+    "birth": "0327",
+    "nameKo": "박 선 하",
+    "nameEn": "PARK, SUN HA",
+    "deptKo": "소프트웨어 연구개발",
+    "deptEn": "Software R&D",
+    "titleKo": "연구원",
+    "titleEn": "Engineer",
+    "mobile": "10.5360.8164",
+    "email": "shpark",
+    "location": "hq"
+  },
+  {
+    "name": "박홍진",
+    "birth": "0319",
+    "nameKo": "박 홍 진",
+    "nameEn": "PARK, HONG JIN",
+    "deptKo": "시스템 연구개발",
+    "deptEn": "System R&D",
+    "titleKo": "책임연구원",
+    "titleEn": "Senior Engineer",
+    "mobile": "10.5020.9752",
+    "email": "hjpark",
+    "location": "hq"
   }
 ]
